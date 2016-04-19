@@ -1,5 +1,5 @@
 public class SOQLDynam{
-   // avdd
+   // avddg123
     public map<string,schema.SObjectType> mObjects{get; set;} 
     public map<string,schema.SObjectField> mFields{get; set;}
     public list<selectOption>fsOptions {get;set;}
